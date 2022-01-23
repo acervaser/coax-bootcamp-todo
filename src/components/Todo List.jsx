@@ -1,5 +1,5 @@
 import React from "react";
-import TodoListItem from "./TodoListItem";
+import TodoListItem from "./TaskItem";
 const TodoList = ({ todos, removeListItem }) => {
     return(
        <div>
